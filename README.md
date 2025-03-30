@@ -1,5 +1,6 @@
 
 Projeto Arcade
+
 Este projeto é a criação de um arcade contendo três minijogos, também tem como objetivo desenvolver os alunos em resoluções de problemas, raciocínio lógico e trabalho em equipe.
 
 •Perguntas e Respostas
